@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/landing-app/static/css/main.57d86863.css",
+    "main.js": "/landing-app/static/js/main.2cb37d77.js",
+    "static/js/787.a3f4064b.chunk.js": "/landing-app/static/js/787.a3f4064b.chunk.js",
+    "static/media/c10.jpg": "/landing-app/static/media/c10.7406e865a56925e7a467.jpg",
+    "static/media/c1.jpg": "/landing-app/static/media/c1.e60d4994d49d3670ab4a.jpg",
+    "static/media/c3.jpg": "/landing-app/static/media/c3.b2e1d75a0cd548bdfad3.jpg",
+    "static/media/c7.jpg": "/landing-app/static/media/c7.4bd343b364810292cb27.jpg",
+    "static/media/c16.jpg": "/landing-app/static/media/c16.2235726f1ad0c978b943.jpg",
+    "static/media/c11.jpg": "/landing-app/static/media/c11.9d2ebc3e6ae512933e02.jpg",
+    "static/media/c13.jpg": "/landing-app/static/media/c13.25ced7fb4280d0c92fdb.jpg",
+    "static/media/c4.jpg": "/landing-app/static/media/c4.02fa7d712b789722ba8f.jpg",
+    "static/media/c8.jpg": "/landing-app/static/media/c8.eb4511e8697462dcf937.jpg",
+    "static/media/c12.jpg": "/landing-app/static/media/c12.32ccff08a47d4481b616.jpg",
+    "static/media/c6.jpg": "/landing-app/static/media/c6.4753eaa88b4f604e35e1.jpg",
+    "static/media/people-5.jpg": "/landing-app/static/media/people-5.97faa5502d7f1c6dbdfc.jpg",
+    "static/media/people-2.jpg": "/landing-app/static/media/people-2.f90750fce477a6bf5250.jpg",
+    "static/media/people-9.jpg": "/landing-app/static/media/people-9.44f0849a64b96a6a8475.jpg",
+    "static/media/people-10.jpg": "/landing-app/static/media/people-10.63845bdfa28515025dc1.jpg",
+    "static/media/people-7.jpg": "/landing-app/static/media/people-7.83080b83a33049589627.jpg",
+    "static/media/people-8.jpg": "/landing-app/static/media/people-8.374a96a727bacac601a9.jpg",
+    "static/media/people-3.jpg": "/landing-app/static/media/people-3.0418fdd4522233f76d49.jpg",
+    "index.html": "/landing-app/index.html",
+    "main.57d86863.css.map": "/landing-app/static/css/main.57d86863.css.map",
+    "main.2cb37d77.js.map": "/landing-app/static/js/main.2cb37d77.js.map",
+    "787.a3f4064b.chunk.js.map": "/landing-app/static/js/787.a3f4064b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57d86863.css",
+    "static/js/main.2cb37d77.js"
+  ]
+}
